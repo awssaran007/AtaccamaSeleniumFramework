@@ -1,0 +1,10 @@
+testCase:
+  - operand1: "2"
+    operand2: "3"
+    result: "-1"
+  - operand1: "6"
+    operand2: "-3"
+    result: "9"
+
+
+

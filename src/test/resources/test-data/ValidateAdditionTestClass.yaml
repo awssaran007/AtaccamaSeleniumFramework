@@ -1,0 +1,12 @@
+testCase:
+  - operand1: "2"
+    operand2: "3"
+    result: "5"
+  - operand1: "6"
+    operand2: "-3"
+    result: "3"
+  - operand1: ""
+    operand2: "0.9"
+    result: "0.9"
+
+

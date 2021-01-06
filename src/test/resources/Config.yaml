@@ -1,0 +1,2 @@
+envName: "QA"
+url: "http://localhost:8080/qa_testCalc_java11/webUI"
